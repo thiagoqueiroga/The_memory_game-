@@ -1,0 +1,6 @@
+{
+  "name": "Jogo da Memória",
+  "description": "Um jogo da memória clássico otimizado para dispositivos móveis com animações e diferentes níveis de dificuldade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
